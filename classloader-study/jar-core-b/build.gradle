@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+dependencies {
+    compile project(":classloader-study/jar-api")
+}
+version '1.0.0'
+
+sourceCompatibility = 1.8

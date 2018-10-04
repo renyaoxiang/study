@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="axon-study_main" target="1.8" />
+      <module name="axon-study_test" target="1.8" />
+      <module name="classloader-study_jar-a_main" target="1.8" />
+      <module name="classloader-study_jar-a_test" target="1.8" />
+      <module name="classloader-study_jar-api_main" target="1.8" />
+      <module name="classloader-study_jar-api_test" target="1.8" />
+      <module name="classloader-study_jar-b_main" target="1.8" />
+      <module name="classloader-study_jar-b_test" target="1.8" />
+      <module name="classloader-study_jar-core-a_main" target="1.8" />
+      <module name="classloader-study_jar-core-a_test" target="1.8" />
+      <module name="classloader-study_jar-core-b_main" target="1.8" />
+      <module name="classloader-study_jar-core-b_test" target="1.8" />
+      <module name="classloader-study_jar-main_main" target="1.8" />
+      <module name="classloader-study_jar-main_test" target="1.8" />
+      <module name="classloader-study_main" target="1.8" />
+      <module name="classloader-study_test" target="1.8" />
+      <module name="groovy-study_main" target="1.8" />
+      <module name="groovy-study_test" target="1.8" />
+      <module name="scala-study_main" target="1.8" />
+      <module name="scala-study_test" target="1.8" />
+      <module name="spring-study_main" target="1.8" />
+      <module name="spring-study_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

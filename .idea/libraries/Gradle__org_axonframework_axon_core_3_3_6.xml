@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.axonframework:axon-core:3.3.6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Cannot resolve external dependency org.axonframework:axon-core:3.3.6 because no repositories are defined." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-core/3.3.6/72cc54385121f5cf118d55544fc9ebd41f4c951c/axon-core-3.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.axonframework/axon-core/3.3.6/a373401556d54a51e76913be9c3bc432cacaa016/axon-core-3.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

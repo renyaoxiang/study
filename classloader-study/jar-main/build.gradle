@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+version '1.0.0'
+
+sourceCompatibility = 1.8
+
+
+mainClassName = "com.rionour.study.classloader.main.App"
+
+
+dependencies {
+    // https://mvnrepository.com/artifact/com.google.guava/guava
+    compile group: 'com.google.guava', name: 'guava', version: '26.0-jre'
+
+}
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}

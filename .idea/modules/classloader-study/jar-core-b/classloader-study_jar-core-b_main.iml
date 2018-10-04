@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":classloader-study/jar-core-b:main" external.linked.project.path="$MODULE_DIR$/../../../../classloader-study/jar-core-b" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="study" external.system.module.type="sourceSet" external.system.module.version="1.0.0" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../classloader-study/jar-core-b/out/production/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../classloader-study/jar-core-b/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../classloader-study/jar-core-b/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../classloader-study/jar-core-b/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="classloader-study_jar-api_main" />
+  </component>
+</module>

@@ -1,0 +1,12 @@
+rootProject.name = 'study'
+
+include 'spring-study'
+include 'groovy-study'
+include 'scala-study'
+include 'axon-study'
+include 'classloader-study'
+include 'classloader-study/jar-api'
+include 'classloader-study/jar-core-a'
+include 'classloader-study/jar-core-b'
+include 'classloader-study/jar-main'
+

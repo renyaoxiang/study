@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/axon-study/axon-study.iml" filepath="$PROJECT_DIR$/.idea/modules/axon-study/axon-study.iml" group="axon-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/axon-study/axon-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/axon-study/axon-study_main.iml" group="axon-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/axon-study/axon-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/axon-study/axon-study_test.iml" group="axon-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study.iml" group="classloader-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-api/classloader-study_jar-api.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-api/classloader-study_jar-api.iml" group="classloader-study/jar-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-api/classloader-study_jar-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-api/classloader-study_jar-api_main.iml" group="classloader-study/jar-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-api/classloader-study_jar-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-api/classloader-study_jar-api_test.iml" group="classloader-study/jar-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-a/classloader-study_jar-core-a.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-a/classloader-study_jar-core-a.iml" group="classloader-study/jar-core-a" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-a/classloader-study_jar-core-a_main.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-a/classloader-study_jar-core-a_main.iml" group="classloader-study/jar-core-a" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-a/classloader-study_jar-core-a_test.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-a/classloader-study_jar-core-a_test.iml" group="classloader-study/jar-core-a" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-b/classloader-study_jar-core-b.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-b/classloader-study_jar-core-b.iml" group="classloader-study/jar-core-b" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-b/classloader-study_jar-core-b_main.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-b/classloader-study_jar-core-b_main.iml" group="classloader-study/jar-core-b" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-b/classloader-study_jar-core-b_test.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-core-b/classloader-study_jar-core-b_test.iml" group="classloader-study/jar-core-b" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-main/classloader-study_jar-main.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-main/classloader-study_jar-main.iml" group="classloader-study/jar-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-main/classloader-study_jar-main_main.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-main/classloader-study_jar-main_main.iml" group="classloader-study/jar-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classloader-study/jar-main/classloader-study_jar-main_test.iml" filepath="$PROJECT_DIR$/.idea/modules/classloader-study/jar-main/classloader-study_jar-main_test.iml" group="classloader-study/jar-main" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-study/groovy-study.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-study/groovy-study.iml" group="groovy-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-study/groovy-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-study/groovy-study_main.iml" group="groovy-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/groovy-study/groovy-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/groovy-study/groovy-study_test.iml" group="groovy-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-study/scala-study.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-study/scala-study.iml" group="scala-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-study/scala-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-study/scala-study_main.iml" group="scala-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scala-study/scala-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scala-study/scala-study_test.iml" group="scala-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-study/spring-study.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-study/spring-study.iml" group="spring-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-study/spring-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-study/spring-study_main.iml" group="spring-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-study/spring-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-study/spring-study_test.iml" group="spring-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/study.iml" filepath="$PROJECT_DIR$/.idea/study.iml" />
+    </modules>
+  </component>
+</project>
